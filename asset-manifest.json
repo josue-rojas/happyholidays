@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/happyholidays/static/css/main.0de01320.chunk.css",
+    "main.js": "/happyholidays/static/js/main.800b3a4c.chunk.js",
+    "main.js.map": "/happyholidays/static/js/main.800b3a4c.chunk.js.map",
+    "runtime-main.js": "/happyholidays/static/js/runtime-main.2642304e.js",
+    "runtime-main.js.map": "/happyholidays/static/js/runtime-main.2642304e.js.map",
+    "static/js/2.360f99f1.chunk.js": "/happyholidays/static/js/2.360f99f1.chunk.js",
+    "static/js/2.360f99f1.chunk.js.map": "/happyholidays/static/js/2.360f99f1.chunk.js.map",
+    "static/js/3.fb5c414a.chunk.js": "/happyholidays/static/js/3.fb5c414a.chunk.js",
+    "static/js/3.fb5c414a.chunk.js.map": "/happyholidays/static/js/3.fb5c414a.chunk.js.map",
+    "index.html": "/happyholidays/index.html",
+    "static/css/main.0de01320.chunk.css.map": "/happyholidays/static/css/main.0de01320.chunk.css.map",
+    "static/js/2.360f99f1.chunk.js.LICENSE.txt": "/happyholidays/static/js/2.360f99f1.chunk.js.LICENSE.txt",
+    "static/media/bauble-5.svg": "/happyholidays/static/media/bauble-5.7efbd6d1.svg",
+    "static/media/bells-1.svg": "/happyholidays/static/media/bells-1.b55d38a9.svg",
+    "static/media/mistletoe-5.svg": "/happyholidays/static/media/mistletoe-5.90e9bcf0.svg",
+    "static/media/snowflake-0.svg": "/happyholidays/static/media/snowflake-0.aa5cd5d8.svg",
+    "static/media/snowflake-1.svg": "/happyholidays/static/media/snowflake-1.ee176ea7.svg",
+    "static/media/snowflake-2.svg": "/happyholidays/static/media/snowflake-2.a1f619e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2642304e.js",
+    "static/js/2.360f99f1.chunk.js",
+    "static/css/main.0de01320.chunk.css",
+    "static/js/main.800b3a4c.chunk.js"
+  ]
+}
